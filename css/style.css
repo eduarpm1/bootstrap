@@ -1,0 +1,10 @@
+.carousel-item img {
+  height: 85vh;       
+  object-fit: cover;    
+  width: 100%;
+}
+
+.carousel-caption h5 {
+  font-size: 2.5rem;    
+  font-weight: 700;    
+} 
